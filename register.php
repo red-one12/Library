@@ -92,4 +92,4 @@ else
 </div>
 </div>
 </body>
-</html><!--  Designed & Developed by Ashish Vegan | technologyvegan@gmail.com | www.ashishvegan.com | This Source Code is NOT FOR SALE-->
+</html>

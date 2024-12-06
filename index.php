@@ -10,7 +10,7 @@ $pass=mysqli_real_escape_string($set,$_POST['pass']);
 
 if($sid==NULL || $_POST['pass']==NULL)
 {
-	//
+
 }
 else
 {
